@@ -36,11 +36,14 @@ Dedicated backend developer with a strong command of Python and RESTful API desi
 
 ## Projects
 
-### Tweety
-- A Twitter-like web app with RESTful API, developed using MySQL, Laravel, and Tailwind.
+### [Blind Gomoku (Client/Server)](https://github.com/liang256/blind-gomoku-client)
+- Developed a Gomoku game client and server, showcasing skills in JavaScript and game development.
 
-### IGDB Video Games
-- A website for game information, integrated with IGDB API, using Laravel and deployed on GCP App Engine.
+### [Tetris (Python)](https://github.com/liang256/tetris)
+- Created a terminal-based Tetris game in Python, demonstrating the ability to develop engaging applications.
+
+### [Go TinyRaytracer](https://github.com/liang256/go-tinyraytracer)
+- Implemented a tiny raytracer in Go, illustrating graphics programming and Go language proficiency.
 
 ## Achievements
 - Best Animation for "Cigarette After Fight" at New York Movie Awards.
