@@ -1,53 +1,47 @@
-# Resume
+# Liang Chen
+Software Engineer  
+liangyu.chen.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/liang256/) | [GitHub](https://github.com/liang256)
 
-## FONTRIP - Backend Engineer
-2020 Dec ~ present
+## Professional Summary
+Dedicated backend developer with a strong command of Python and RESTful API design. Proficient in cloud services like AWS and actively expanding skills in front-end technologies like React. Committed to contributing to impactful projects and eager to grow in a dynamic software engineering role.
 
-Developed and Maintained the GDS for the biggest travel agency, Lion Travel, in Taiwan.
+## Professional Experience
 
-* Designed and develop a webhooks system, including features like subscribable events, deliveries records, and a control panel.
+### Pipeline Technical Director | MPC | Dec 2022 - Present
+- Designed and implemented enhancements for a batching procedure tool.
+- Resolved Houdini-related issues, contributing to a stable and feature-rich software environment.
+- Collaborated with Tech Animation and cross-functional teams for software improvements.
 
-* Developed a sales-report page using ElasticSearch, which can be sorted by different fields and exported to an excel file.
+### Backend Engineer | CLICKFORCE | Oct 2021 - Mar 2022
+- Developed an in-house ERP using Laravel, Docker, MySQL, Redis, and WebSocket.
+- Established a CI workflow with GitHub Actions, enhancing service deployment.
 
-* Integrated with suppliers' API, including fetching product information and developing the booking processes.
+### Backend Engineer | FONTRIP | Dec 2020 - Sep 2021
+- Maintained and enhanced the booking API for Taiwan's largest travel agency.
+- Created a webhooks system and designed a sales-report page using Elasticsearch.
 
-* Helped update the API documentation of the GDS.
+## Education
 
-## Good Idea studio - Backend Camp Member
-2020 Jul ~ 2020 Nov
+### Sheridan College
+- Graduate Certificate in Computer Animation, Sep 2019 - Jun 2020
+- GPA: 3.85
 
-* Developed a Twitter liked web app using Laravel and MySQL.
+### National Taiwan University of Science and Technology
+- Bachelor's Degree in Commercial Design, 2012 - 2016
 
-* Experience in using both Apache and Nginx, and using AWS EC2 for deploying websites.
+## Skills
+- **Languages:** Python, C, JavaScript (React)
+- **Frameworks/Tools:** Laravel, Houdini, AWS, Docker, MySQL
+- **Other:** RESTful API Design, 3D Animation, Character Rigging, Database Design
 
-* Attended 12th IT Iron Man, game attendees post a technique essay every day in a month.
+## Projects
 
-## MixCode - Character Rigger (freelance)
-2018 Sep ~ 2018 Nov
+### Tweety
+- A Twitter-like web app with RESTful API, developed using MySQL, Laravel, and Tailwind.
 
-* Rigged all characters for [Disney Junior Identity, 2019](https://www.behance.net/gallery/76752137/Disney-Junior-Ident-Series-2019).
+### IGDB Video Games
+- A website for game information, integrated with IGDB API, using Laravel and deployed on GCP App Engine.
 
-* Developed a flexible and reusable cartoony rig.
-
-
-## White Light Motion - Technical Artist
-2016 Jun ~ 2018 May
-
-* Developed a flexible and reusable cartoony facial rig which was applied in multiple projects.
-* Besides 3D productions, also participated in story development, character design, and storyboard.
-
-# Education
-
-## Sheridan College
-Computer Animation, Graduate Certificate</br>
-2019 ~ 2020
-
-
-* Overall GPA 3.85/4
-* Developed toolkits using Python
-* Graduation film, Cigarette After Fight, won the Best Animation of New York Movie Awards
-* Won the full scholarship by Minister of Education, Taiwan, 2019
-
-## Taiwan University of Technology and Science
-Commercial Design, Bachelor of Design</br>
-2012 ~ 2016
+## Achievements
+- Best Animation for "Cigarette After Fight" at New York Movie Awards.
+- Full Scholarship from the Minister of Education, Taiwan (2019).
