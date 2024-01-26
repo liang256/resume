@@ -26,13 +26,13 @@ Dedicated backend developer with a strong command of Python and RESTful API desi
 - Developed a sales report page using ElasticSearch, enabling sorting by various fields and exportation to an Excel file.
 - Maintained the API documentation
 
-## Education
-
-### Good Idea Studio Apprenticeship
+### Backend Apprenticeship | Good Idea Studio | Jul 2020 - Nov 2020
 - Created a website for video game information by seamlessly integrating with the IGDB API.
 - Built a web application akin to Twitter, utilizing Laravel and MySQL.
 - Proficiently worked with both Apache and Nginx, and adeptly deployed websites using AWS EC2.
 - Actively participated in the 12th IT Iron Man, authoring 30 essays on web development over the span of 30 days.
+
+## Education
 
 ### Sheridan College
 - Graduate Certificate in Computer Animation, Sep 2019 - Jun 2020
