@@ -3,20 +3,33 @@ Pipeline Technical Director
 liangyu.chen.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/liang256/) | [GitHub](https://github.com/liang256)
 
 ## Professional Summary
-Skilled Pipeline TD with extensive experience in tool development and pipeline optimization in the animation and VFX industry. Proficient in Python and Houdini, with a strong background in creating efficient workflows and resolving technical challenges. Passionate about enhancing production efficiency and team collaboration.
+- Experienced Pipeline Technical Director in the animation and VFX industry, specializing in Python and Houdini. Proven track record of optimizing pipeline development and enhancing production efficiency.
+- Proficient with CG animation software, with extensive experience addressing complex issues in Houdini and familiarity with industry-standard scene data formats like Alembic and USD, aligning with the technical demands of modern animation production.
+- Expertise in GUI development using PyQt/PySide, enabling efficient authoring, validation, and management of 3D data within production pipelines.
+- Collaborative team player who excels in environments that value strong teamwork, problem-solving, and open communication, contributing to an artist-friendly work culture.
 
 ## Professional Experience
 
 ### Pipeline Technical Director | MPC | Dec 2022 - Present
-- Engineered and enhanced a chaining feature for batching procedure tools.
-- Addressed complex Houdini-related issues, boosting software stability and functionality.
-- Fostered close collaboration with Tech Animation teams, devising tailored solutions for improved production pipelines.
+- Enhanced pipeline automation by engineering an advanced chaining feature, significantly boosting efficiency.
+- Solved complex Houdini issues, improving software stability and streamlining VFX workflows.
+- Led collaborations with Technical Animation teams to refine production pipelines, enhancing project outcomes.
+- Developed user interfaces with Qt, PyQt/PySide, simplifying the 3D data management process.
+- Broadened expertise in CG animation tools (Maya, Katana, Nuke, RV, Shotgun), integrating complex 3D scenes seamlessly.
 
 ### Backend Engineer | CLICKFORCE | Oct 2021 - Mar 2022
-- Developed an in-house ERP from scratch, highlighting problem-solving and development skills.
+- Designed and implemented a comprehensive in-house ERP system leveraging Laravel, Docker, MySQL, Redis, and WebSocket technologies.
+- Designed and implemented an approval model in accordance with the CEO's requirements.
+- Implemented a continuous integration workflow with GitHub Actions.
+- Database schema design and performance tuning.
+- Conducted technical interviews
 
 ### Backend Engineer | FONTRIP | Dec 2020 - Sep 2021
-- Played a key role in enhancing the booking API's functionality and reliability.
+- Maintained and improved the functionality and reliability of the booking API for Taiwan's largest travel agency.
+- Integrated with suppliers' AP and developed the booking processes.
+- Designed and developed a Webhooks system, featuring subscribable events, delivery records, and a control panel.
+- Developed a sales report page using ElasticSearch, enabling sorting by various fields and exportation to an Excel file.
+- Maintained the API documentation
 
 ### Character Rigger | MIXCODE | Oct 2018 - Dec 2018
 - Developed innovative rigging solutions to meet the director's vision, enhancing project flexibility.
@@ -35,7 +48,7 @@ Skilled Pipeline TD with extensive experience in tool development and pipeline o
 
 ## Skills
 - **Languages:** Python, C, JavaScript
-- **Software/Tools:** Houdini, AWS, Docker, MySQL, Laravel
+- **Software/Tools:** Houdini, AWS, Docker, MySQL, Laravel, Qt, PySide
 - **Specializations:** Pipeline Development, Technical Problem Solving, Workflow Optimization
 
 ## Projects
